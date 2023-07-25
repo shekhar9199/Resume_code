@@ -1,0 +1,103 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="resume.css">
+</head>
+ 
+<body>
+    <ul>
+        <h1>Resume</h1>
+        <hr>
+        <div class="full">
+            <div class="left">
+                <div class="image">
+                    <img src="/WhatsApp Image 2023-07-25 at 11.11.37 PM.jpeg" alt="profile photo" style="width:150px;height:150px;" >
+                </div>
+                <div class="Contact">
+                    <h2><details>Contact details</details></h2>
+                    <p><b>Name :</b> Shekhar Suman</p>
+                    <p><b>Email id :</b> 321shekhar123@gmail.com</p>
+                    <p><b>Mobile no :</b> 9199028199</p>
+                    <p><b>Linked-in : </b>https://www.linkedin.com/in/shekhar-suman-524296246</p>
+                </div>
+                <div class="Skills">
+                    <h2>Skills</h2>
+                    <hr>
+                    <ul>
+                        <li><b>Programming Languages : C, C++, java</b></li>
+                        <li><b>Frontend : HTML5, CSS3, Nodejs, React</b></li>
+                    </ul>
+                </div>
+                <hr>
+                <div class="Language">
+                    <h2>Language</h2>
+                    <ul>
+                        <li>English</li>
+                        <li>Hindi</li>
+                    </ul>
+                </div>
+                <hr>
+                <div class="Hobbies">
+                    <h2>Hobbies</h2>
+                    <ul>
+                        <li>Playing cricket</li>
+                        <li>Playing vollyball</li>
+                        <li>Playing chess</li>
+                        <li>Android games </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="right">
+                
+                <div class="title">
+       
+                </div>
+                <hr>
+                <div class="Experience">
+                    <h2>Experience</h2>
+                    <ul>
+                        <li>
+                            <h3>Full stack developer</h3>
+                        </li>
+                        <li>
+                            <h3>Content writing</h3>
+                        </li>
+                    </ul>
+                    <ul>
+                </div>
+                <hr>
+                <div class="Education">
+                    <h2>Education</h2>
+                    <table>
+                    
+                            <tr>
+                                <td><h4>University/college </h4></td>
+                                <th><h4>| Education details </h4></th>
+                                <th><h4>| Passing year  </h4>  </th>
+                                <th><h4>| percentage/cgpa</h4></th>
+                            </tr>
+                            <tr>
+                                <td>Dav public school </td>
+                                <td>| 12th </td>
+                                <td>| 2021</td>
+                                <td>| 84.4%</td>
+                            </tr>
+                            <tr>
+                                <td>University college of engineering</td>
+                                <td>| Parsuing B.tech-IT</td>
+                                <td>| 2021</td>
+                                <td>-</td>
+                            </tr>
+                        
+                    </table>
+                </div>
+            </div>
+        </div>
+        <hr>
+    </ul>
+</body>
+ 
+</html>
